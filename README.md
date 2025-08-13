@@ -95,4 +95,4 @@ I'm always looking for new challenges and creative teammates! Whether it's a pro
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourgithubusername&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=Andrea-Bertarione&color=brightgreen)
